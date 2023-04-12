@@ -2,10 +2,7 @@
 
 ## Description
 
-- My motivation to build this webpage was to create a place to store notes for coding HTML, CSS, JavaScript, and Git to be used by the boot camp students.
-- This makes it easy for myself and others to access the notes that I have collated.
-- Throughout this process I have learned the basics of coding in HTML, CSS and JavaScript whilst also getting an understanding of Github, Gitbash and how to use them to commit
-the changes to the code I made to my repository and create a webpage.
+This Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
